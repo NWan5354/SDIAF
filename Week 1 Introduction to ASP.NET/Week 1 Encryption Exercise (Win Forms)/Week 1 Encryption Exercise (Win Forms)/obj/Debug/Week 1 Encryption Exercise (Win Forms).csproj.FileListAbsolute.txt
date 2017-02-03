@@ -1,0 +1,9 @@
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\Week 1 Encryption Exercise (Win Forms)\Week 1 Encryption Exercise (Win Forms)\bin\Debug\Week 1 Encryption Exercise (Win Forms).exe.config
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\Week 1 Encryption Exercise (Win Forms)\Week 1 Encryption Exercise (Win Forms)\bin\Debug\Week 1 Encryption Exercise (Win Forms).exe
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\Week 1 Encryption Exercise (Win Forms)\Week 1 Encryption Exercise (Win Forms)\bin\Debug\Week 1 Encryption Exercise (Win Forms).pdb
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\Week 1 Encryption Exercise (Win Forms)\Week 1 Encryption Exercise (Win Forms)\obj\Debug\Week 1 Encryption Exercise (Win Forms).csprojResolveAssemblyReference.cache
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\Week 1 Encryption Exercise (Win Forms)\Week 1 Encryption Exercise (Win Forms)\obj\Debug\Week_1_Encryption_Exercise__Win_Forms_.Form1.resources
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\Week 1 Encryption Exercise (Win Forms)\Week 1 Encryption Exercise (Win Forms)\obj\Debug\Week_1_Encryption_Exercise__Win_Forms_.Properties.Resources.resources
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\Week 1 Encryption Exercise (Win Forms)\Week 1 Encryption Exercise (Win Forms)\obj\Debug\Week 1 Encryption Exercise (Win Forms).csproj.GenerateResource.Cache
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\Week 1 Encryption Exercise (Win Forms)\Week 1 Encryption Exercise (Win Forms)\obj\Debug\Week 1 Encryption Exercise (Win Forms).exe
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\Week 1 Encryption Exercise (Win Forms)\Week 1 Encryption Exercise (Win Forms)\obj\Debug\Week 1 Encryption Exercise (Win Forms).pdb

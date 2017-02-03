@@ -1,0 +1,33 @@
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\ApplicationInsights.config
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\roslyn\csc.exe
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\roslyn\System.Collections.Immutable.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\roslyn\vbc.exe
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\roslyn\VBCSCompiler.exe
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\roslyn\VBCSCompiler.exe.config
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\ASP.NET Experimenting.dll.config
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\ASP.NET Experimenting.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\ASP.NET Experimenting.pdb
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\Microsoft.AI.Web.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\Microsoft.AI.WindowsServer.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\Microsoft.ApplicationInsights.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\Microsoft.AI.Web.xml
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\Microsoft.AI.WindowsServer.xml
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\Microsoft.ApplicationInsights.xml
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\obj\Debug\ASP.NET Experimenting.csprojResolveAssemblyReference.cache
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\obj\Debug\ASP.NET Experimenting.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET Experimenting\ASP.NET Experimenting\obj\Debug\ASP.NET Experimenting.pdb

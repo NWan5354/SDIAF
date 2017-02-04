@@ -13,7 +13,7 @@ namespace ASP.NET__Test_Website_
         {
             
                 Label1.Text = Request.QueryString.ToString();
-            
+                
         }
     }
 }

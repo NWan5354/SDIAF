@@ -19,5 +19,10 @@ namespace ASP.NET__Test_Website_
         {
             Response.Redirect("about.aspx?" + NameField.Text);
         }
+
+        protected void display_time (Object s, EventArgs E)
+        {
+            TimeLabel.Text = DateTime.Now.ToString();
+        }
     }
 }

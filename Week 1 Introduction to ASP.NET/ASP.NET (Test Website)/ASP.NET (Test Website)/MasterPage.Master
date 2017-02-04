@@ -29,6 +29,8 @@
                 </asp:MenuItem>
                 <asp:MenuItem Text="Contact" Value="Contact" NavigateUrl="~/contact.aspx">
                 </asp:MenuItem>
+                <asp:MenuItem Text="Calculator" Value="Calculator" NavigateUrl="~/calculator.aspx">
+                </asp:MenuItem>
             </Items>
             <StaticHoverStyle BackColor="#284E98" ForeColor="White" />
         </asp:Menu>

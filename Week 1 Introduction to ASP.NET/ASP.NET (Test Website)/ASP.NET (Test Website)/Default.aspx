@@ -16,8 +16,16 @@
     Name:
 </asp:Label>
     <asp:TextBox runat="server" ID="NameField"></asp:TextBox>
-    
+
     <asp:Button runat="server" ID="Button1" Text="Submit" OnClick="Button1_Click" />
+    <br />
+    <asp:Label runat="server" ID="TimeLabel">
+
+    </asp:Label>
+    
+    <br />
+
+    <asp:Button ID="TimeButton" runat="server" OnClick="display_time" Text="Display date & time"/>
 </body>
 </html>
 </asp:Content>

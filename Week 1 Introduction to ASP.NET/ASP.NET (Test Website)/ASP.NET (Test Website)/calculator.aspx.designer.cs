@@ -10,42 +10,42 @@
 namespace ASP.NET__Test_Website_ {
     
     
-    public partial class Default {
+    public partial class calculator {
         
         /// <summary>
-        /// NameField control.
+        /// FirstNumber control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox NameField;
+        protected global::System.Web.UI.WebControls.TextBox FirstNumber;
         
         /// <summary>
-        /// Button1 control.
+        /// SecondNumber control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button1;
+        protected global::System.Web.UI.WebControls.TextBox SecondNumber;
         
         /// <summary>
-        /// TimeLabel control.
+        /// submit control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label TimeLabel;
+        protected global::System.Web.UI.WebControls.Button submit;
         
         /// <summary>
-        /// TimeButton control.
+        /// Answer control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button TimeButton;
+        protected global::System.Web.UI.WebControls.Label Answer;
     }
 }

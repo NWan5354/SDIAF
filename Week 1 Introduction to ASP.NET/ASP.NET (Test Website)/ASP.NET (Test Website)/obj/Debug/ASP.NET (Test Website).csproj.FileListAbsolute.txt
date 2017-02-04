@@ -1,0 +1,33 @@
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\ApplicationInsights.config
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\roslyn\csc.exe
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\roslyn\System.Collections.Immutable.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\roslyn\vbc.exe
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\roslyn\VBCSCompiler.exe
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\roslyn\VBCSCompiler.exe.config
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\ASP.NET (Test Website).dll.config
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\ASP.NET (Test Website).dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\ASP.NET (Test Website).pdb
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\Microsoft.AI.Web.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\Microsoft.AI.WindowsServer.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\Microsoft.ApplicationInsights.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\Microsoft.AI.Web.xml
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\Microsoft.AI.WindowsServer.xml
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\Microsoft.ApplicationInsights.xml
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\obj\Debug\ASP.NET (Test Website).csprojResolveAssemblyReference.cache
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\obj\Debug\ASP.NET (Test Website).dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ASP.NET (Test Website)\ASP.NET (Test Website)\obj\Debug\ASP.NET (Test Website).pdb

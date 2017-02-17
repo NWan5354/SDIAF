@@ -1,0 +1,6 @@
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ShapeTests\ShapeTests\bin\Debug\ShapeTests.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ShapeTests\ShapeTests\bin\Debug\ShapeTests.pdb
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ShapeTests\ShapeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ShapeTests\ShapeTests\obj\Debug\ShapeTests.csprojResolveAssemblyReference.cache
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ShapeTests\ShapeTests\obj\Debug\ShapeTests.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\ShapeTests\ShapeTests\obj\Debug\ShapeTests.pdb

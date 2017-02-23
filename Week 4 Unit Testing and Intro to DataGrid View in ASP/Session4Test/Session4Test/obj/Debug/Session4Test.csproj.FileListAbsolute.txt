@@ -1,0 +1,6 @@
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\Session4Test\Session4Test\bin\Debug\Session4Test.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\Session4Test\Session4Test\bin\Debug\Session4Test.pdb
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\Session4Test\Session4Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\Session4Test\Session4Test\obj\Debug\Session4Test.csprojResolveAssemblyReference.cache
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\Session4Test\Session4Test\obj\Debug\Session4Test.dll
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\Session4Test\Session4Test\obj\Debug\Session4Test.pdb

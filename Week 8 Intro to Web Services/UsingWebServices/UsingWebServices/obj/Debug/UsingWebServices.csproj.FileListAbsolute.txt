@@ -1,6 +1,0 @@
-h:\my documents\visual studio 2013\Projects\UsingWebServices\UsingWebServices\bin\UsingWebServices.dll.config
-h:\my documents\visual studio 2013\Projects\UsingWebServices\UsingWebServices\bin\UsingWebServices.dll
-h:\my documents\visual studio 2013\Projects\UsingWebServices\UsingWebServices\bin\UsingWebServices.pdb
-h:\my documents\visual studio 2013\Projects\UsingWebServices\UsingWebServices\obj\Debug\UsingWebServices.csprojResolveAssemblyReference.cache
-h:\my documents\visual studio 2013\Projects\UsingWebServices\UsingWebServices\obj\Debug\UsingWebServices.dll
-h:\my documents\visual studio 2013\Projects\UsingWebServices\UsingWebServices\obj\Debug\UsingWebServices.pdb

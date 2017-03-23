@@ -1,0 +1,5 @@
+h:\my documents\visual studio 2013\Projects\CourseworkExercise4New\CourseworkExercise4New\bin\CourseworkExercise4New.dll.config
+h:\my documents\visual studio 2013\Projects\CourseworkExercise4New\CourseworkExercise4New\bin\CourseworkExercise4New.dll
+h:\my documents\visual studio 2013\Projects\CourseworkExercise4New\CourseworkExercise4New\bin\CourseworkExercise4New.pdb
+h:\my documents\visual studio 2013\Projects\CourseworkExercise4New\CourseworkExercise4New\obj\Debug\CourseworkExercise4New.dll
+h:\my documents\visual studio 2013\Projects\CourseworkExercise4New\CourseworkExercise4New\obj\Debug\CourseworkExercise4New.pdb

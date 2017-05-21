@@ -1,0 +1,10 @@
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\CourseworkExercise3\CourseworkExercise3\bin\Debug\CourseworkExercise3.exe.config
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\CourseworkExercise3\CourseworkExercise3\bin\Debug\CourseworkExercise3.exe
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\CourseworkExercise3\CourseworkExercise3\bin\Debug\CourseworkExercise3.pdb
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\CourseworkExercise3\CourseworkExercise3\obj\Debug\CourseworkExercise3.csprojResolveAssemblyReference.cache
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\CourseworkExercise3\CourseworkExercise3\obj\Debug\CourseworkExercise3.Form1.resources
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\CourseworkExercise3\CourseworkExercise3\obj\Debug\CourseworkExercise3.Properties.Resources.resources
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\CourseworkExercise3\CourseworkExercise3\obj\Debug\CourseworkExercise3.csproj.GenerateResource.Cache
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\CourseworkExercise3\CourseworkExercise3\obj\Debug\CourseworkExercise3.exe
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\CourseworkExercise3\CourseworkExercise3\obj\Debug\CourseworkExercise3.pdb
+C:\Users\nickw\OneDrive\Documents\Visual Studio 2015\Projects\CourseworkExercise3\CourseworkExercise3\obj\Debug\CourseworkExercise3.Form2.resources

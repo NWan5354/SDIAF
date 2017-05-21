@@ -1,0 +1,37 @@
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\ApplicationInsights.config
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\roslyn\csc.exe
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\roslyn\vbc.exe
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\CourseworkExercise1 (ASP Login Web).dll.config
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\CourseworkExercise1 (ASP Login Web).dll
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\CourseworkExercise1 (ASP Login Web).pdb
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\Microsoft.AI.Web.dll
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\Microsoft.AI.Web.xml
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\obj\Debug\SDIAF_Assignment1_CoffeeShop.csprojResolveAssemblyReference.cache
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\obj\Debug\CourseworkExercise1 (ASP Login Web).dll
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\obj\Debug\CourseworkExercise1 (ASP Login Web).pdb
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\Google.Maps.dll
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\Newtonsoft.Json.dll
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\Google.Maps.pdb
+C:\Users\nickw\Desktop\Coffee Shop\SDIAF_Assignment1_CoffeeShop\SDIAF_Assignment1_CoffeeShop\bin\Newtonsoft.Json.xml

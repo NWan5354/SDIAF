@@ -1,0 +1,28 @@
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\CMS2017\CMS2017\bin\Debug\CMS2017.exe.config
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\CMS2017\CMS2017\bin\Debug\CMS2017.exe
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\CMS2017\CMS2017\bin\Debug\CMS2017.pdb
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\CMS2017\CMS2017\obj\Debug\CMS2017.csprojResolveAssemblyReference.cache
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\CMS2017\CMS2017\obj\Debug\CMS2017.LoginForm.resources
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\CMS2017\CMS2017\obj\Debug\CMS2017.Properties.Resources.resources
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\CMS2017\CMS2017\obj\Debug\CMS2017.csproj.GenerateResource.Cache
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\CMS2017\CMS2017\obj\Debug\CMS2017.exe
+c:\users\nickw\onedrive\documents\visual studio 2015\Projects\CMS2017\CMS2017\obj\Debug\CMS2017.pdb
+C:\Users\nickw\OneDrive\Documents\Visual Studio 2015\Projects\CMS2017\CMS2017\obj\Debug\CMS2017.MainMenu.resources
+C:\Users\nickw\OneDrive\Documents\Visual Studio 2015\Projects\CMS2017\CMS2017\obj\Debug\CMS2017.RegisterStaff.resources
+C:\Users\nickw\OneDrive\Documents\Visual Studio 2015\Projects\CMS2017\CMS2017\obj\Debug\CMS2017.AddNewCoffeeProduct.resources
+C:\Users\nickw\OneDrive\Documents\Visual Studio 2015\Projects\CMS2017\CMS2017\obj\Debug\CMS2017.UpdateCoffee.resources
+C:\Users\nickw\Desktop\CMS2017\CMS2017\bin\Debug\CMS2017.exe
+C:\Users\nickw\Desktop\CMS2017\CMS2017\bin\Debug\CMS2017.exe.config
+C:\Users\nickw\Desktop\CMS2017\CMS2017\obj\Debug\CMS2017.AddNewCoffeeProduct.resources
+C:\Users\nickw\Desktop\CMS2017\CMS2017\obj\Debug\CMS2017.LoginForm.resources
+C:\Users\nickw\Desktop\CMS2017\CMS2017\obj\Debug\CMS2017.MainMenu.resources
+C:\Users\nickw\Desktop\CMS2017\CMS2017\obj\Debug\CMS2017.OrdersPlaced.resources
+C:\Users\nickw\Desktop\CMS2017\CMS2017\obj\Debug\CMS2017.Properties.Resources.resources
+C:\Users\nickw\Desktop\CMS2017\CMS2017\obj\Debug\CMS2017.RegisterStaff.resources
+C:\Users\nickw\Desktop\CMS2017\CMS2017\obj\Debug\CMS2017.UpdateCoffee.resources
+C:\Users\nickw\Desktop\CMS2017\CMS2017\obj\Debug\CMS2017.csproj.GenerateResource.Cache
+C:\Users\nickw\Desktop\CMS2017\CMS2017\obj\Debug\CMS2017.exe
+C:\Users\nickw\Desktop\CMS2017\CMS2017\obj\Debug\CMS2017.pdb
+C:\Users\nickw\Desktop\CMS2017\CMS2017\bin\Debug\CMS2017.pdb
+C:\Users\nickw\Desktop\CMS2017\CMS2017\obj\Debug\CMS2017.csprojResolveAssemblyReference.cache
+C:\Users\nickw\Desktop\CMS2017\CMS2017\obj\Debug\CMS2017.UpdateOrders.resources

@@ -1,0 +1,5 @@
+C:\Users\nickw\onedrive\documents\visual studio 2015\Projects\CourseworkExercise2 (Unit Testing)\CourseworkExercise2 (Unit Testing)\bin\Debug\CourseworkExercise2 (Unit Testing).dll
+C:\Users\nickw\onedrive\documents\visual studio 2015\Projects\CourseworkExercise2 (Unit Testing)\CourseworkExercise2 (Unit Testing)\bin\Debug\CourseworkExercise2 (Unit Testing).pdb
+C:\Users\nickw\onedrive\documents\visual studio 2015\Projects\CourseworkExercise2 (Unit Testing)\CourseworkExercise2 (Unit Testing)\obj\Debug\CourseworkExercise2 (Unit Testing).dll
+C:\Users\nickw\onedrive\documents\visual studio 2015\Projects\CourseworkExercise2 (Unit Testing)\CourseworkExercise2 (Unit Testing)\obj\Debug\CourseworkExercise2 (Unit Testing).pdb
+C:\Users\nickw\onedrive\documents\visual studio 2015\Projects\CourseworkExercise2 (Unit Testing)\CourseworkExercise2 (Unit Testing)\obj\Debug\CourseworkExercise2 (Unit Testing).csprojResolveAssemblyReference.cache

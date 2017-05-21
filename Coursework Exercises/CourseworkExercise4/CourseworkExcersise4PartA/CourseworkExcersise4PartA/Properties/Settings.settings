@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CourseworkExcersise4PartA.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CourseworkExcersise4PartA_Webref1_AreaUnit" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://www.webservicex.net/ConvertArea.asmx</Value>
+    </Setting>
+    <Setting Name="CourseworkExcersise4PartA_Webref2_ComputerUnit" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://www.webservicex.net/ConvertComputer.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="HelloWorld">
+        <s:complexType />
+      </s:element>
+      <s:element name="HelloWorldResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="HelloWorldResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CurrencyGBPtoUSDollar">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="exchange" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CurrencyGBPtoUSDollarResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CurrencyGBPtoUSDollarResult" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CurrencyGBPtoSouthAfrica">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="exchange" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CurrencyGBPtoSouthAfricaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CurrencyGBPtoSouthAfricaResult" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CurrencyGBPtoSingaporeDollar">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="exchange" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CurrencyGBPtoSingaporeDollarResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CurrencyGBPtoSingaporeDollarResult" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CurrencyGBPtoHongKongDollar">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="exchange" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CurrencyGBPtoHongKongDollarResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CurrencyGBPtoHongKongDollarResult" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CurrencyGBPtoFranceEuro">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="exchange" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CurrencyGBPtoFranceEuroResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CurrencyGBPtoFranceEuroResult" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CurrencyGBPtoGermanyEuro">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="exchange" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CurrencyGBPtoGermanyEuroResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CurrencyGBPtoGermanyEuroResult" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CurrencyGBPtoIndiaRupee">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="exchange" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CurrencyGBPtoIndiaRupeeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CurrencyGBPtoIndiaRupeeResult" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CurrencyGBPtoDenmarkDanishKrone">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="exchange" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CurrencyGBPtoDenmarkDanishKroneResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CurrencyGBPtoDenmarkDanishKroneResult" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="HelloWorldSoapIn">
+    <wsdl:part name="parameters" element="tns:HelloWorld" />
+  </wsdl:message>
+  <wsdl:message name="HelloWorldSoapOut">
+    <wsdl:part name="parameters" element="tns:HelloWorldResponse" />
+  </wsdl:message>
+  <wsdl:message name="CurrencyGBPtoUSDollarSoapIn">
+    <wsdl:part name="parameters" element="tns:CurrencyGBPtoUSDollar" />
+  </wsdl:message>
+  <wsdl:message name="CurrencyGBPtoUSDollarSoapOut">
+    <wsdl:part name="parameters" element="tns:CurrencyGBPtoUSDollarResponse" />
+  </wsdl:message>
+  <wsdl:message name="CurrencyGBPtoSouthAfricaSoapIn">
+    <wsdl:part name="parameters" element="tns:CurrencyGBPtoSouthAfrica" />
+  </wsdl:message>
+  <wsdl:message name="CurrencyGBPtoSouthAfricaSoapOut">
+    <wsdl:part name="parameters" element="tns:CurrencyGBPtoSouthAfricaResponse" />
+  </wsdl:message>
+  <wsdl:message name="CurrencyGBPtoSingaporeDollarSoapIn">
+    <wsdl:part name="parameters" element="tns:CurrencyGBPtoSingaporeDollar" />
+  </wsdl:message>
+  <wsdl:message name="CurrencyGBPtoSingaporeDollarSoapOut">
+    <wsdl:part name="parameters" element="tns:CurrencyGBPtoSingaporeDollarResponse" />
+  </wsdl:message>
+  <wsdl:message name="CurrencyGBPtoHongKongDollarSoapIn">
+    <wsdl:part name="parameters" element="tns:CurrencyGBPtoHongKongDollar" />
+  </wsdl:message>
+  <wsdl:message name="CurrencyGBPtoHongKongDollarSoapOut">
+    <wsdl:part name="parameters" element="tns:CurrencyGBPtoHongKongDollarResponse" />
+  </wsdl:message>
+  <wsdl:message name="CurrencyGBPtoFranceEuroSoapIn">
+    <wsdl:part name="parameters" element="tns:CurrencyGBPtoFranceEuro" />
+  </wsdl:message>
+  <wsdl:message name="CurrencyGBPtoFranceEuroSoapOut">
+    <wsdl:part name="parameters" element="tns:CurrencyGBPtoFranceEuroResponse" />
+  </wsdl:message>
+  <wsdl:message name="CurrencyGBPtoGermanyEuroSoapIn">
+    <wsdl:part name="parameters" element="tns:CurrencyGBPtoGermanyEuro" />
+  </wsdl:message>
+  <wsdl:message name="CurrencyGBPtoGermanyEuroSoapOut">
+    <wsdl:part name="parameters" element="tns:CurrencyGBPtoGermanyEuroResponse" />
+  </wsdl:message>
+  <wsdl:message name="CurrencyGBPtoIndiaRupeeSoapIn">
+    <wsdl:part name="parameters" element="tns:CurrencyGBPtoIndiaRupee" />
+  </wsdl:message>
+  <wsdl:message name="CurrencyGBPtoIndiaRupeeSoapOut">
+    <wsdl:part name="parameters" element="tns:CurrencyGBPtoIndiaRupeeResponse" />
+  </wsdl:message>
+  <wsdl:message name="CurrencyGBPtoDenmarkDanishKroneSoapIn">
+    <wsdl:part name="parameters" element="tns:CurrencyGBPtoDenmarkDanishKrone" />
+  </wsdl:message>
+  <wsdl:message name="CurrencyGBPtoDenmarkDanishKroneSoapOut">
+    <wsdl:part name="parameters" element="tns:CurrencyGBPtoDenmarkDanishKroneResponse" />
+  </wsdl:message>
+  <wsdl:portType name="CurrencyExchangeSoap">
+    <wsdl:operation name="HelloWorld">
+      <wsdl:input message="tns:HelloWorldSoapIn" />
+      <wsdl:output message="tns:HelloWorldSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CurrencyGBPtoUSDollar">
+      <wsdl:input message="tns:CurrencyGBPtoUSDollarSoapIn" />
+      <wsdl:output message="tns:CurrencyGBPtoUSDollarSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CurrencyGBPtoSouthAfrica">
+      <wsdl:input message="tns:CurrencyGBPtoSouthAfricaSoapIn" />
+      <wsdl:output message="tns:CurrencyGBPtoSouthAfricaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CurrencyGBPtoSingaporeDollar">
+      <wsdl:input message="tns:CurrencyGBPtoSingaporeDollarSoapIn" />
+      <wsdl:output message="tns:CurrencyGBPtoSingaporeDollarSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CurrencyGBPtoHongKongDollar">
+      <wsdl:input message="tns:CurrencyGBPtoHongKongDollarSoapIn" />
+      <wsdl:output message="tns:CurrencyGBPtoHongKongDollarSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CurrencyGBPtoFranceEuro">
+      <wsdl:input message="tns:CurrencyGBPtoFranceEuroSoapIn" />
+      <wsdl:output message="tns:CurrencyGBPtoFranceEuroSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CurrencyGBPtoGermanyEuro">
+      <wsdl:input message="tns:CurrencyGBPtoGermanyEuroSoapIn" />
+      <wsdl:output message="tns:CurrencyGBPtoGermanyEuroSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CurrencyGBPtoIndiaRupee">
+      <wsdl:input message="tns:CurrencyGBPtoIndiaRupeeSoapIn" />
+      <wsdl:output message="tns:CurrencyGBPtoIndiaRupeeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CurrencyGBPtoDenmarkDanishKrone">
+      <wsdl:input message="tns:CurrencyGBPtoDenmarkDanishKroneSoapIn" />
+      <wsdl:output message="tns:CurrencyGBPtoDenmarkDanishKroneSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="CurrencyExchangeSoap" type="tns:CurrencyExchangeSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CurrencyGBPtoUSDollar">
+      <soap:operation soapAction="http://tempuri.org/CurrencyGBPtoUSDollar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CurrencyGBPtoSouthAfrica">
+      <soap:operation soapAction="http://tempuri.org/CurrencyGBPtoSouthAfrica" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CurrencyGBPtoSingaporeDollar">
+      <soap:operation soapAction="http://tempuri.org/CurrencyGBPtoSingaporeDollar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CurrencyGBPtoHongKongDollar">
+      <soap:operation soapAction="http://tempuri.org/CurrencyGBPtoHongKongDollar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CurrencyGBPtoFranceEuro">
+      <soap:operation soapAction="http://tempuri.org/CurrencyGBPtoFranceEuro" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CurrencyGBPtoGermanyEuro">
+      <soap:operation soapAction="http://tempuri.org/CurrencyGBPtoGermanyEuro" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CurrencyGBPtoIndiaRupee">
+      <soap:operation soapAction="http://tempuri.org/CurrencyGBPtoIndiaRupee" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CurrencyGBPtoDenmarkDanishKrone">
+      <soap:operation soapAction="http://tempuri.org/CurrencyGBPtoDenmarkDanishKrone" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="CurrencyExchangeSoap12" type="tns:CurrencyExchangeSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap12:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CurrencyGBPtoUSDollar">
+      <soap12:operation soapAction="http://tempuri.org/CurrencyGBPtoUSDollar" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CurrencyGBPtoSouthAfrica">
+      <soap12:operation soapAction="http://tempuri.org/CurrencyGBPtoSouthAfrica" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CurrencyGBPtoSingaporeDollar">
+      <soap12:operation soapAction="http://tempuri.org/CurrencyGBPtoSingaporeDollar" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CurrencyGBPtoHongKongDollar">
+      <soap12:operation soapAction="http://tempuri.org/CurrencyGBPtoHongKongDollar" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CurrencyGBPtoFranceEuro">
+      <soap12:operation soapAction="http://tempuri.org/CurrencyGBPtoFranceEuro" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CurrencyGBPtoGermanyEuro">
+      <soap12:operation soapAction="http://tempuri.org/CurrencyGBPtoGermanyEuro" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CurrencyGBPtoIndiaRupee">
+      <soap12:operation soapAction="http://tempuri.org/CurrencyGBPtoIndiaRupee" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CurrencyGBPtoDenmarkDanishKrone">
+      <soap12:operation soapAction="http://tempuri.org/CurrencyGBPtoDenmarkDanishKrone" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="CurrencyExchange">
+    <wsdl:port name="CurrencyExchangeSoap" binding="tns:CurrencyExchangeSoap">
+      <soap:address location="http://localhost:53168/CurrencyExchange.asmx" />
+    </wsdl:port>
+    <wsdl:port name="CurrencyExchangeSoap12" binding="tns:CurrencyExchangeSoap12">
+      <soap12:address location="http://localhost:53168/CurrencyExchange.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
